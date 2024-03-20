@@ -2,7 +2,7 @@
 Swift UI ID Object Identifier Hash Value
 ![Screenshot 2024-03-20 at 5 31 57 AM](https://github.com/danielurra/Swift-UI-ID-Object-Identifier-Hash-Value/assets/51704179/110c71a6-fab5-4fec-89f6-381ac22af595)<br>
 ## Object Identifier - add it to the class
-![Screenshot 2024-03-20 at 5 35 40 AM](https://github.com/danielurra/Swift-UI-ID-Object-Identifier-Hash-Value/assets/51704179/535b4306-bdbf-4752-bd64-84acf79adc46)<br>
+![Screenshot 2024-03-20 at 5 35 40 AM](https://github.com/danielurra/Swift-UI-ID-Object-Identifier-Hash-Value/assets/51704179/6f88040c-f318-4544-aba1-b6f7abd23423)<br>
 ## Object Identifier - how to reveal the Hash value
 ![Screenshot 2024-03-20 at 5 29 44 AM](https://github.com/danielurra/Swift-UI-ID-Object-Identifier-Hash-Value/assets/51704179/76be6ead-67f1-44e6-bec5-81cf70d85ca4)
 
